@@ -10,6 +10,7 @@
 - Chuks Nwakanma
 <br/>
 
+## Project Phases
 <details>
 <summary>Stage 1</summary>
 <br/>
@@ -22,6 +23,7 @@ We also prepared a project proposal with potential project ideas. We came up wit
 The 3 are listed on this doc here: [Team Proposal](../Stage_one/CPSC_481_Team_Proposal.pdf)
 </details>
 
+<br/>
 <details>
 <summary>Stage 2</summary>
 <br>
