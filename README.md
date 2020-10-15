@@ -8,9 +8,10 @@
 - Jase Pasay
 - Pragya Chopra
 - Chuks Nwakanma
+<br/>
 
 <details>
-<summary>** Stage 1 **</summary>
+<summary>Stage 1</summary>
 In stage 1 we developed our team contract, which provided us guidelines on acceptable behaviour within our Team.
 The link to our Team Contract: [Team Contract](../Stage_one/TeamM_TeamContractHandout.pdf)
 <br/>
@@ -20,6 +21,6 @@ The 3 are listed on this doc here: [Team Proposal](../Stage_one/CPSC_481_Team_Pr
 </details>
 
 <details>
-<summary>** Stage 2 **</summary>
+<summary>Stage 2</summary>
 <br>
 </details>
