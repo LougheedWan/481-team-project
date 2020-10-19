@@ -30,6 +30,6 @@ The 3 are listed on this doc: [Team Proposal](../Stage_one/CPSC_481_Team_Proposa
 For this iteration, we were tasked with solidifying a single idea, in which we chose our game matchmaking pick from iteration 1 and we were also tasked
 with implementing user research methods to get information on what our potential clients would want.
 <br/>
-We then put it all in a report: [Stage 2 Report](../Stage_two/Stage_2.pdf)
+We then put it all in a report: [Stage 2 Report](../Stage_two/TEAM-M_Stage_2.pdf)
 
 </details>
