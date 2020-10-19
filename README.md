@@ -20,7 +20,7 @@ The link to our Team Contract: [Team Contract](../Stage_one/TeamM_TeamContractHa
 <br/><br/>
 We also prepared a project proposal with potential project ideas. We came up with roughly 10-15 ideas and narrowed it down to 3.
 <br/>
-The 3 are listed on this doc here: [Team Proposal](../Stage_one/CPSC_481_Team_Proposal.pdf)
+The 3 are listed on this doc: [Team Proposal](../Stage_one/CPSC_481_Team_Proposal.pdf)
 </details>
 
 <br/>
@@ -28,6 +28,8 @@ The 3 are listed on this doc here: [Team Proposal](../Stage_one/CPSC_481_Team_Pr
 <summary>Stage 2</summary>
 
 For this iteration, we were tasked with solidifying a single idea, in which we chose our game matchmaking pick from iteration 1 and we were also tasked
-with implementing user research methods to get information on what our potential clients would want. We then put it all in a report which is linked [here](../Stage_two/Stage_2.pdf)
+with implementing user research methods to get information on what our potential clients would want.
+<br/>
+We then put it all in a report: [Stage 2 Report](../Stage_two/Stage_2.pdf)
 
 </details>
