@@ -1,4 +1,4 @@
-# **CPSC 481- Human Computer Interactions **
+# CPSC 481- Human Computer Interactions 
 ## **Team-Project**
 
 # Project Portfolio
