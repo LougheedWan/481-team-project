@@ -42,7 +42,7 @@ For this iteration, we were tasked with developing a low fidelity prototype usin
 At the very end, we went over our prototype and developed a cognitive walkthough for all of our vertical tasks, changing up our prototype based on the problems found in our walkthrough. Then we created a presentation which included a demo of our prototype.
 <br/><br/>
 Here are our links:
-The link to our report: 
+The link to our report: [Stage 3 Report](../Stage_three/Stage-3-report.pdf)
 
 
 </details>
