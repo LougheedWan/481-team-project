@@ -44,5 +44,6 @@ At the very end, we went over our prototype and developed a cognitive walkthough
 Here are our links:
 The link to our report: [Stage 3 Report](../Stage_three/Stage-3-report.pdf)
 
+The link to our presentation: https://uofc-my.sharepoint.com/:p:/g/personal/lougheed_wan_ucalgary_ca/ETHr6ul8stFGgHKe6uWrrQYBjnvD4GQFno6SC0uTJSs5cQ?e=fMjMCu
 
 </details>
