@@ -32,4 +32,17 @@ with implementing user research methods to get information on what our potential
 <br/>
 We then put it all in a report: [Stage 2 Report](../Stage_two/TEAM-M_Stage_2.pdf)
 
+
+</details>
+<details>
+<summary>Stage 3</summary>
+
+For this iteration, we were tasked with developing a low fidelity prototype using the software Balsamiq. To do this, we first developed many different sketches which then we took the ideas from them and organized them using an affinity diagram. Afterward, we chose the best idea out of all of them and created a quick storyboard based on what we thought the flow of the software would look like. Finally using the storyboard we created our low fidelity prototype based off of our storyboard.
+<br/>
+At the very end, we went over our prototype and developed a cognitive walkthough for all of our vertical tasks, changing up our prototype based on the problems found in our walkthrough. Then we created a presentation which included a demo of our prototype.
+<br/><br/>
+Here are our links:
+The link to our report: 
+
+
 </details>
