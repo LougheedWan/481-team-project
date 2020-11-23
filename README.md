@@ -47,3 +47,15 @@ The link to our report: [Stage 3 Report](../Stage_three/Stage-3-report.pdf)
 The link to our presentation: https://uofc-my.sharepoint.com/:p:/g/personal/lougheed_wan_ucalgary_ca/ETHr6ul8stFGgHKe6uWrrQYBjnvD4GQFno6SC0uTJSs5cQ?e=fMjMCu
 
 </details>
+<details>
+<summary>Stage 4</summary>
+
+For this iteration, we were tasked to review our low fidelity prototype which we created in iteration 3, and develop a high fidelity prototype from it. We decided on using Adobe XD as our program of choice. Our 4 vertical tasks include: Automatic Queue, Manual Lobby Search, Edit and view Profile pages and Settings menu. In this prototype, we changed up our color scheme to be more of a purple/blue theme as well as polished up side pages such as confirmation overlays and tutorials. After we were done with the first iteration of our high fidelity, we split our team into evaluators and reviewers to complete a heuristic evalution of our prototype. After, we took the problems we found during our evaluation and re iterated them onto our XD prototype. 
+<br/><br/>
+Here are our links:
+The link to our heuristic report:
+
+The link to our presentation:
+The link to our 
+
+</details>
