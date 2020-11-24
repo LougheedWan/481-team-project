@@ -55,7 +55,6 @@ For this iteration, we were tasked to review our low fidelity prototype which we
 Here are our links:
 The link to our heuristic report:[Stage 4 Report](../Stage_four/Stage-4.pdf)
 
-The link to our presentation:
-The link to our 
+The link to our presentation: https://uofc.sharepoint.com/:v:/s/GrpO365_Science_ComputerScience_CPSC481F2020-TeamM/EQj1DeH-O0pEghqu0y4Uy2kBrbP8YBSb3G7WT5IHOJ945w?e=dBgCC4
 
 </details>
